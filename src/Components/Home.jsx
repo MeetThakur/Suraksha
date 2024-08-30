@@ -103,7 +103,7 @@ function Home() {
         </h1>
       </div>
 
-      <div className="flex flex-col gap-[15vh] mt-[10vh]">
+      <div className="flex flex-col gap-[12vh] mt-[8vh]">
         <div
           className={`w-full flex place-content-center p-[2vh] font-bold text-[3vh] ${RiskColor()}`}
         >
